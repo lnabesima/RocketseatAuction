@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8A5D4B11-73E1-4599-9AC6-CD592BDCD628}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{20D1C16D-749B-4F6C-B22C-EC57944742C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketseatAuction.API", "src\RocketseatAuction.API\RocketseatAuction.API.csproj", "{58FAE879-2F30-4917-9B51-C4C4ECEE0751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58FAE879-2F30-4917-9B51-C4C4ECEE0751} = {8A5D4B11-73E1-4599-9AC6-CD592BDCD628}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FAE879-2F30-4917-9B51-C4C4ECEE0751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FAE879-2F30-4917-9B51-C4C4ECEE0751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FAE879-2F30-4917-9B51-C4C4ECEE0751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FAE879-2F30-4917-9B51-C4C4ECEE0751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
